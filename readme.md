@@ -49,4 +49,4 @@ This release includes crucial security patches to address an [XSS vulnerability 
 ## 🧩 Credits
 
 Originally authored by Tyler Bruffy  
-Patched and maintained by [Tom Dent](mailto:tom.dent@riseandamplify.co.uk)
+Patched and maintained by Rise & Amplify https://riseandamplify.co.uk
